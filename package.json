@@ -1,0 +1,25 @@
+{
+  "name": "akyuu-cluster",
+  "version": "1.0.0",
+  "description": "Cluster plugin for Akyuu.js.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "cluster",
+    "akyuu"
+  ],
+  "author": "XadillaX <i@2333.moe>",
+  "license": "MIT",
+  "dependencies": {
+    "cfork": "^1.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akyuujs/akyuu-cluster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akyuujs/akyuu-cluster/issues"
+  },
+  "homepage": "https://github.com/akyuujs/akyuu-cluster#readme"
+}
